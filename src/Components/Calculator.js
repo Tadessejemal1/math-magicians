@@ -35,19 +35,19 @@ class Calculator extends Component {
           <Button clickHandler={this.handleButtonClick} name="AC" />
           <Button clickHandler={this.handleButtonClick} name="+/-" />
           <Button clickHandler={this.handleButtonClick} name="%" />
-          <Button clickHandler={this.handleButtonClick} className="btn btn-operator" name="/" />
+          <Button clickHandler={this.handleButtonClick} className="btn btn-operator" name="÷" />
         </div>
         <div className="row">
           <Button clickHandler={this.handleButtonClick} name="7" />
           <Button clickHandler={this.handleButtonClick} name="8" />
           <Button clickHandler={this.handleButtonClick} name="9" />
-          <Button clickHandler={this.handleButtonClick} className="btn btn-operator" name="-" />
+          <Button clickHandler={this.handleButtonClick} className="btn btn-operator" name="x" />
         </div>
         <div className="row">
           <Button clickHandler={this.handleButtonClick} name="4" />
           <Button clickHandler={this.handleButtonClick} name="5" />
           <Button clickHandler={this.handleButtonClick} name="6" />
-          <Button clickHandler={this.handleButtonClick} className="btn-operator" name="x" />
+          <Button clickHandler={this.handleButtonClick} className="btn-operator" name="-" />
         </div>
         <div className="row">
           <Button clickHandler={this.handleButtonClick} name="1" />
