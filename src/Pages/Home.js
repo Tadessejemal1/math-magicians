@@ -7,11 +7,11 @@ const Home = () => (
     </h2>
     <p>
       Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-      Animi cumque sit quaerat cum, ratione soluta! Eveniet, magnam
+      Animi cumque sit quaerat cum,ratione soluta! Eveniet, magnam
       eum ea excepturi et temporibus laborum at officia!
     </p>
     <p>
-      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+      Lorem ipsum, dolor sit amet consectetur adipisicing elite.
       Animi cumque sit quaerat cum, ratione soluta! Eveniet, magnam
       eum ea excepturi et temporibus laborum at officia!
     </p>
