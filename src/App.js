@@ -1,8 +1,13 @@
-import React from 'react';
-import './App.css';
-import Calculator from './Components/Calculator';
+import { Component } from 'react';
+import { Routes, Route } from 'react-router-dom';
 
-class App extends React.Component {
+import './App.css';
+import Home from './Pages/Home';
+import Quote from './Pages/Quote';
+import CalculatorPage from './Pages/CalculatorPage';
+import Header from './Pages/Header';
+
+class App extends Component {
   constructor(props) {
     super(props);
     this.state = {};
@@ -10,10 +15,16 @@ class App extends React.Component {
 
   render() {
     return (
-      <div>
-        <Calculator />
-      </div>
+      <>
+        <Header />
+        <Routes>
+          <Route path="/" exact element={<Home />} />
+          <Route path="calculator" element={<CalculatorPage />} />
+          <Route path="quote" element={<Quote />} />
+        </Routes>
+      </>
     );
   }
 }
+
 export default App;
