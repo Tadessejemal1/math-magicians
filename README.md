@@ -2,6 +2,8 @@
 
 >  This is the first project of the Math Magicians application. You will set up the environment and tools needed to develop a React application. In the following projects, you will develop the actual application.
 
+## Live Demo
+[live demo](https://https://euphonious-cactus-a77132.netlify.app/)
 ## Built With
 
 - HTML, CSS, JavaScript, React
@@ -38,7 +40,5 @@ To get a local copy up and running follow these simple example steps.
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
-
-## Live Demo
 
 ## Show your support
