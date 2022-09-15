@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Display component renders correctly 1`] = `
+<div
+  className="input"
+>
+  8
+</div>
+`;
+
+exports[`Input component renders correctly 1`] = `
+<div
+  className="input"
+>
+  8
+</div>
+`;
