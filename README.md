@@ -32,8 +32,8 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Tadesse Jemal**
 
--  > GitHub: https://github.com/Tadessejemal1 
-  > LinkedIn: https://www.linkedin.com
+  - GitHub: https://github.com/Tadessejemal1 
+  - LinkedIn: https://www.linkedin.com
 
 ## 🤝 Contributing
 
